@@ -15,6 +15,28 @@ module.exports = defineConfig({
       }
     }
   },
+  chainWebpack: (config) => {
+    config.module.rules.delete('svg')
+  },
+  configureWebpack: {
+    externals: {
+      AMap: 'AMap',
+      AMapUI: 'AMapUI'
+    },
+    module: {
+      rules: [
+        {
+          test: /\.svg$/,
+          use: {
+            loader: 'svg-sprite-loader',
+            options: {
+              symbolId: 'icon-[name]'
+            }
+          }
+        }
+      ]
+    }
+  },
   devServer: {
     proxy: {
       '/api': {

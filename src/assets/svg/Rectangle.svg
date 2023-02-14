@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M38,19.996749 C37.9044726,19.9989127 37.8087317,20 37.7128,20 L36.0008,20 C34.8948,20 34.0008,19.106 34.0008,18 C34.0008,16.894 34.8948,16 36.0008,16 L37.7128,16 C40.1388,16 42.3148,15.024 43.3908,13.454 C43.8388,12.796 44.2728,11.75 43.7808,10.486 L41.6528,5.006 C41.4608,4.512 40.6228,4 39.5508,4 L8.4488,4 C7.3768,4 6.5388,4.512 6.3468,5.006 L4.2188,10.486 C3.7268,11.75 4.1608,12.796 4.6088,13.454 C5.6848,15.024 7.8588,16 10.2868,16 L12.0008,16 C13.1048,16 14.0008,16.894 14.0008,18 C14.0008,19.106 13.1048,20 12.0008,20 L10.2868,20 C10.1910022,20 10.0953946,19.9989157 10,19.9967581 L10,30 C10,33.308 12.692,36 16,36 L36,36 C37.104,36 38,36.894 38,38 C38,39.106 37.104,40 36,40 L16,40 C10.486,40 6,35.514 6,30 L6,19.2388234 C4.04646928,18.5102396 2.38793324,17.2895616 1.3088,15.712 C-0.0752,13.694 -0.3732,11.26 0.4908,9.038 L2.6188,3.556 C3.4448,1.43 5.7868,0 8.4488,0 L39.5508,0 C42.2128,0 44.5548,1.43 45.3808,3.556 L47.5088,9.038 C48.3728,11.26 48.0748,13.694 46.6908,15.712 C45.6117404,17.289454 43.9533571,18.5100729 42,19.2386742 L42,31.4668 C42,32.5728 41.104,33.4668 40,33.4668 C38.896,33.4668 38,32.5728 38,31.4668 L38,19.996749 Z M28,20 L20,20 C18.896,20 18,19.106 18,18 C18,16.894 18.896,16 20,16 L28,16 C29.104,16 30,16.894 30,18 C30,19.106 29.104,20 28,20 Z" id="path-1"></path>
+        <filter x="-8.3%" y="-5.0%" width="116.7%" height="120.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.574830335   0 0 0 0 0.574830335  0 0 0 0.0887681159 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-92.000000, -1786.000000)">
+            <g id="tab" transform="translate(92.000000, 1786.000000)">
+                <g id="Group-2">
+                    <g id="工具">
+                        <g id="Group-11" transform="translate(2.000000, 2.000000)">
+                            <g id="Group-10" transform="translate(0.000000, 6.000000)">
+                                <g id="Combined-Shape">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                    <use fill="#666666" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

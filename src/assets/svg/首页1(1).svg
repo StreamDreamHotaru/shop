@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="55px" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>首页1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="-1%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#B4C1FF" offset="0%"></stop>
+            <stop stop-color="#70B6FF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-30.0%" y="-100.0%" width="160.0%" height="300.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="4" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="100%" y1="50%" x2="-1%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#ADBAF4" offset="0%"></stop>
+            <stop stop-color="#1779DF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1%" y1="0%" x2="100%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#ADBAF4" offset="0%"></stop>
+            <stop stop-color="#3991ED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-257.000000, -921.000000)">
+            <g id="分组-4-copy" transform="translate(262.000000, 925.000000)">
+                <g id="分组-5" transform="translate(4.000000, 27.000000)" fill="url(#linearGradient-1)" opacity="0.602585565">
+                    <path d="M40,7.99184672 L40,10 C40,11.1045695 39.1045695,12 38,12 L2,12 C0.8954305,12 1.3527075e-16,11.1045695 0,10 L0,7.99184672 C2.80325001,7.89998695 5,7.04328046 5,6 C5,4.95671954 2.80325001,4.10001305 9.31033028e-13,4.00815328 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 L38,0 C39.1045695,-2.02906125e-16 40,0.8954305 40,2 L40,4.00815328 C39.835319,4.00275684 39.6685448,4 39.5,4 C36.4624339,4 34,4.8954305 34,6 C34,7.1045695 36.4624339,8 39.5,8 C39.6685448,8 39.835319,7.99724316 40,7.99184672 Z M26.5,4 C25.6715729,4 25,4.67157288 25,5.5 L25,6.5 C25,7.32842712 25.6715729,8 26.5,8 C27.3284271,8 28,7.32842712 28,6.5 L28,5.5 C28,4.67157288 27.3284271,4 26.5,4 Z M13.5,4 C12.6715729,4 12,4.67157288 12,5.5 L12,6.5 C12,7.32842712 12.6715729,8 13.5,8 C14.3284271,8 15,7.32842712 15,6.5 L15,5.5 C15,4.67157288 14.3284271,4 13.5,4 Z" id="合并形状" filter="url(#filter-2)"></path>
+                </g>
+                <g id="分组-5-copy" transform="translate(0.000000, 5.000000)">
+                    <path d="M3,29.5 L13.2830808,29.5 L16.9497475,35 L16.9497475,23 L13.2830808,28.5 L3,28.5 L3,23 L17,23 L17,35 L3,35 L3,29.5 Z" id="合并形状-copy" fill="url(#linearGradient-3)" transform="translate(10.000000, 29.000000) scale(-1, 1) rotate(-315.000000) translate(-10.000000, -29.000000) "></path>
+                    <path d="M27.1923882,29.6923882 L37.475469,29.6923882 L41.1421356,35.1923882 L41.1421356,23.1923882 L37.475469,28.6923882 L27.1923882,28.6923882 L27.1923882,23.1923882 L41.1923882,23.1923882 L41.1923882,35.1923882 L27.1923882,35.1923882 L27.1923882,29.6923882 Z" id="合并形状-copy-2" fill="url(#linearGradient-3)" transform="translate(34.192388, 29.192388) rotate(-315.000000) translate(-34.192388, -29.192388) "></path>
+                    <path d="M22,30 C13.7157288,30 7,23.2842712 7,15 C7,6.71572875 13.7157288,0 22,0 C30.2842712,0 37,6.71572875 37,15 C37,23.2842712 30.2842712,30 22,30 Z M22,22 C25.8659932,22 29,18.8659932 29,15 C29,11.1340068 25.8659932,8 22,8 C18.1340068,8 15,11.1340068 15,15 C15,18.8659932 18.1340068,22 22,22 Z" id="合并形状" fill="url(#linearGradient-4)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

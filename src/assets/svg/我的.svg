@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>我的</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-13.3%" y="-14.3%" width="126.7%" height="157.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0887681159 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M36.3274,45.5 L12.3274,45.5 C6.8134,45.5 2.3274,40.564 2.3274,34.5 L2.3274,15.94 C2.3274,14.834 3.2214,13.94 4.3274,13.94 C5.4334,13.94 6.3274,14.834 6.3274,15.94 L6.3274,34.5 C6.3274,38.36 9.0194,41.5 12.3274,41.5 L36.3274,41.5 C39.6354,41.5 42.3274,38.36 42.3274,34.5 L42.3274,12 C42.3274,10.644 41.4114,9.5 40.3274,9.5 L7.5774,9.5 C6.4714,9.5 5.5774,8.606 5.5774,7.5 C5.5774,6.394 6.4714,5.5 7.5774,5.5 L40.3274,5.5 C43.6354,5.5 46.3274,8.416 46.3274,12 L46.3274,34.5 C46.3274,40.564 41.8414,45.5 36.3274,45.5" id="path-2"></path>
+        <filter x="-4.5%" y="-2.5%" width="109.1%" height="110.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0887681159 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M24.2024,30 C21.8244,30 19.5184,29.15 17.7144,27.608 C16.8744,26.89 16.7744,25.628 17.4944,24.79 C18.2104,23.95 19.4744,23.852 20.3124,24.568 C22.4344,26.382 25.7524,26.44 27.9404,24.694 C28.8044,24.004 30.0644,24.148 30.7504,25.012 C31.4384,25.874 31.2984,27.132 30.4324,27.822 C28.6704,29.226 26.4584,30 24.2024,30" id="path-4"></path>
+        <filter x="-14.1%" y="-16.9%" width="128.2%" height="167.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0887681159 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图标" transform="translate(-606.000000, -1786.000000)">
+            <g id="tab" transform="translate(92.000000, 1786.000000)">
+                <g id="Group-4-Copy" transform="translate(514.000000, 0.000000)">
+                    <g id="工具-copy-3">
+                        <g id="Group-7" transform="translate(2.000000, 2.000000)">
+                            <g id="Group-6" filter="url(#filter-1)" transform="translate(17.000000, 24.000000)"></g>
+                            <g id="Fill-2">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use fill="#565656" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            </g>
+                            <g id="Fill-4">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                <use fill="#565656" fill-rule="evenodd" xlink:href="#path-4"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

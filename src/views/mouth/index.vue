@@ -34,13 +34,13 @@ const footerNav = [
     text: '首页'
   },
   {
-    path: '/sort',
+    path: '/classify',
     alreadyIcon: require('@/assets/images/工具 copy 3@3x(1).png'),
     alreadyNot: require('@/assets/images/工具 copy 3@3x.png'),
     text: '分类'
   },
   {
-    path: '/car',
+    path: '/cart',
     alreadyIcon: require('@/assets/images/报单@3x(1).png'),
     alreadyNot: require('@/assets/images/报单@3x.png'),
     text: '购物车'

@@ -5,7 +5,7 @@
  * index.vue
 -->
 <template>
-  <div class="home">首页</div>
+  <div class="cart">购物车</div>
 </template>
 
 <script setup lang="ts"></script>
