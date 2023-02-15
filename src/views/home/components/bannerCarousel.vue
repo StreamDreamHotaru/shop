@@ -8,12 +8,7 @@
   <div class="banner-carousel"></div>
 </template>
 
-<script setup lang="ts">
-import { Swiper, SwiperSlide } from 'swiper'
-
-// Import Swiper styles
-import 'swiper/css'
-</script>
+<script setup lang="ts"></script>
 
 <style lang="scss" scoped>
 .banner-carousel {
