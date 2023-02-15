@@ -56,9 +56,14 @@ const footerNav = [
 
 <style lang="scss" scoped>
 .footer {
+  a {
+    text-decoration: none;
+  }
   position: fixed;
+  background-color: #fff;
   bottom: 0px;
   left: 0px;
+  height: 104px;
   right: 0px;
   display: flex;
   &-itme {
